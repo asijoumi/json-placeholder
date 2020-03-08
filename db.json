@@ -1,0 +1,7 @@
+{
+  "documents": [
+    { "id": 1, "nom_document": "Post 1" },
+    { "id": 2, "nom_document": "Post 2" },
+    { "id": 3, "nom_document": "Post 3" }
+  ]
+}
